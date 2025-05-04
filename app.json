@@ -13,19 +13,19 @@
       "value": ""
     },  
     
-    "STICKER_NAME": 𝔓𝔩𝔤 𝔓𝔞𝔠𝔨.🔯
+    "STICKER_NAME": "Plg Pack."
       "description": "type your sticker pack name.",
       "required": false,
       "value": "SHABAN-MD"
     }, 
       
-    "PREFIX": { .
+    "PREFIX": { "."
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
     },
     
-    "MODE": { Public 
+    "MODE": { "Public"
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
@@ -39,7 +39,7 @@
       "value": "false"  
     },    
   
-    "AUTO_VOICE": { False
+    "AUTO_VOICE": { "False"
       "description": "Make it true if want automatic voice reply .",
       "required": false,
       "value": "false"
@@ -83,7 +83,7 @@
    
      }, 
     
-    "OWNER_NAME": { KΣЯΛПΣ
+    "OWNER_NAME": { "MR-KΣЯΛПΣ"
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "MR-SHABAN"
@@ -96,7 +96,7 @@
 
     }, 
 
-    "BOT_NAME": { 𝔓𝔩𝔤 𝔅𝔬𝔱.
+    "BOT_NAME": { "𝔓𝔩𝔤 𝔅𝔬𝔱."
       "description": "Type here the bot name.",
       "required": false,
       "value": "SHABAN-MD"
@@ -116,7 +116,7 @@
       "value": "false"
     }, 
 
-     "DESCRIPTION": { 𝙿𝚕𝚐 𝙱𝚘𝚝 𝚘𝚗 𝚑𝚎𝚛𝚎 !
+     "DESCRIPTION": { "𝙿𝚕𝚐 𝙱𝚘𝚝 𝚘𝚗 𝚑𝚎𝚛𝚎 !"
       "description": "add caption for menu and other",
       "required": false,
       "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
@@ -153,7 +153,7 @@
       
     }, 
     
-    "CUSTOM_REACT_EMOJIS": { 🐉, 🦦, 🔯
+    "CUSTOM_REACT_EMOJIS": { "🐉, 🦦, 🔯, 👨🏽‍🦼, 🧖🏽‍♂️, 🛌🏽, ⚡"
       "description": "put here custom react react emojis.",
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
@@ -179,5 +179,5 @@
         }
      ],
   "stack": "heroku-24"
-}
+
   
