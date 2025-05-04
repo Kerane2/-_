@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": { "SHABAN-MD~8lhHFYDb#19pLOsolJCTuAJL1v4jsRhi2blw96PMr2Yq4KcRepg4"
       "description": "SHABAN-MD~8lhHFYDb#19pLOsolJCTuAJL1v4jsRhi2blw96PMr2Yq4KcRepg4",
       "required": true,
       "value": ""
@@ -89,7 +89,7 @@
       "value": "MR-SHABAN"
 }, 
 
-    "OWNER_NUMBER": { +241 06435809
+    "OWNER_NUMBER": { "24106435809"
       "description": "put the owner number for bot.",
       "required": true,
       "value": "923043788282"
